@@ -16,9 +16,7 @@ Hello!<br><br>I'm MadzMed, a dedicated freelancer specializing in data science a
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MadzMed&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MadzMed&limit=5&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MadzMed&icon=1&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
