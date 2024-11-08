@@ -10,7 +10,7 @@ Hello!<br><br>I'm MadzMed, a dedicated freelancer specializing in data science a
 
 ---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MadzMed&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=MadzMed)
 
 ---
 
