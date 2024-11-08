@@ -7,6 +7,9 @@ Hello!<br><br>I'm MadzMed, a dedicated freelancer specializing in data science a
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MadzMed&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+---
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MadzMed&theme=dark&hide_border=false)<br/>
 
 ---
